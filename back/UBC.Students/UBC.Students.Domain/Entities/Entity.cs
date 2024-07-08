@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace UBC.Students.Domain.Domain.Entities
+namespace UBC.Students.Domain.Entities
 {
     public abstract class Entity : IEquatable<Entity>
     {

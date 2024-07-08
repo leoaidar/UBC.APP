@@ -2,7 +2,6 @@
 using MediatR;
 using Microsoft.Extensions.DependencyInjection;
 using UBC.Students.Application.Interfaces;
-using UBC.Students.Application.Mappers;
 using UBC.Students.Application.Services;
 using UBC.Students.Domain.Commands;
 using UBC.Students.Domain.Commands.Contracts;

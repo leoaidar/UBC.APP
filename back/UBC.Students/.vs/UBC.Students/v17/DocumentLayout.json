@@ -3,100 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{675233B2-EB54-46F8-8CAC-38FCC903A4EE}|UBC.Students.API\\UBC.Students.API.csproj|c:\\users\\leoaidar\\source\\repos\\ubc.students\\ubc.students.api\\seed\\students-seed.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{675233B2-EB54-46F8-8CAC-38FCC903A4EE}|UBC.Students.API\\UBC.Students.API.csproj|solutionrelative:ubc.students.api\\seed\\students-seed.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D04CFBD-8C3B-454B-A0DC-A0CA16812B2F}|UBC.Students.Infra.Data\\UBC.Students.Infra.Data.csproj|c:\\users\\leoaidar\\source\\repos\\ubc.students\\ubc.students.infra.data\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D04CFBD-8C3B-454B-A0DC-A0CA16812B2F}|UBC.Students.Infra.Data\\UBC.Students.Infra.Data.csproj|solutionrelative:ubc.students.infra.data\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D5AE628-8647-472A-873A-BC64564D29FE}|UBC.Students.Domain\\UBC.Students.Domain.csproj|c:\\users\\leoaidar\\source\\repos\\ubc.students\\ubc.students.domain\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D5AE628-8647-472A-873A-BC64564D29FE}|UBC.Students.Domain\\UBC.Students.Domain.csproj|solutionrelative:ubc.students.domain\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D5AE628-8647-472A-873A-BC64564D29FE}|UBC.Students.Domain\\UBC.Students.Domain.csproj|c:\\users\\leoaidar\\source\\repos\\ubc.students\\ubc.students.domain\\handlers\\studentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D5AE628-8647-472A-873A-BC64564D29FE}|UBC.Students.Domain\\UBC.Students.Domain.csproj|solutionrelative:ubc.students.domain\\handlers\\studentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DF1CB58-7AD4-4E97-8F40-8A959527021C}|UBC.Students.Application\\UBC.Students.Application.csproj|c:\\users\\leoaidar\\source\\repos\\ubc.students\\ubc.students.application\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DF1CB58-7AD4-4E97-8F40-8A959527021C}|UBC.Students.Application\\UBC.Students.Application.csproj|solutionrelative:ubc.students.application\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{675233B2-EB54-46F8-8CAC-38FCC903A4EE}|UBC.Students.API\\UBC.Students.API.csproj|c:\\users\\leoaidar\\source\\repos\\ubc.students\\ubc.students.api\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{675233B2-EB54-46F8-8CAC-38FCC903A4EE}|UBC.Students.API\\UBC.Students.API.csproj|solutionrelative:ubc.students.api\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DF1CB58-7AD4-4E97-8F40-8A959527021C}|UBC.Students.Application\\UBC.Students.Application.csproj|c:\\users\\leoaidar\\source\\repos\\ubc.students\\ubc.students.application\\viewmodels\\createstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DF1CB58-7AD4-4E97-8F40-8A959527021C}|UBC.Students.Application\\UBC.Students.Application.csproj|solutionrelative:ubc.students.application\\viewmodels\\createstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DF1CB58-7AD4-4E97-8F40-8A959527021C}|UBC.Students.Application\\UBC.Students.Application.csproj|c:\\users\\leoaidar\\source\\repos\\ubc.students\\ubc.students.application\\mappers\\automapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DF1CB58-7AD4-4E97-8F40-8A959527021C}|UBC.Students.Application\\UBC.Students.Application.csproj|solutionrelative:ubc.students.application\\mappers\\automapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{675233B2-EB54-46F8-8CAC-38FCC903A4EE}|UBC.Students.API\\UBC.Students.API.csproj|c:\\users\\leoaidar\\source\\repos\\ubc.students\\ubc.students.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{675233B2-EB54-46F8-8CAC-38FCC903A4EE}|UBC.Students.API\\UBC.Students.API.csproj|solutionrelative:ubc.students.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{675233B2-EB54-46F8-8CAC-38FCC903A4EE}|UBC.Students.API\\UBC.Students.API.csproj|c:\\users\\leoaidar\\source\\repos\\ubc.students\\ubc.students.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{675233B2-EB54-46F8-8CAC-38FCC903A4EE}|UBC.Students.API\\UBC.Students.API.csproj|solutionrelative:ubc.students.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{675233B2-EB54-46F8-8CAC-38FCC903A4EE}|UBC.Students.API\\UBC.Students.API.csproj|c:\\users\\leoaidar\\source\\repos\\ubc.students\\ubc.students.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{675233B2-EB54-46F8-8CAC-38FCC903A4EE}|UBC.Students.API\\UBC.Students.API.csproj|solutionrelative:ubc.students.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59B15D2F-8882-4FF5-8400-43794226E05F}|UBC.Students.Tests\\UBC.Students.Tests.csproj|c:\\users\\leoaidar\\source\\repos\\ubc.students\\ubc.students.tests\\repositories\\entityfakerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59B15D2F-8882-4FF5-8400-43794226E05F}|UBC.Students.Tests\\UBC.Students.Tests.csproj|solutionrelative:ubc.students.tests\\repositories\\entityfakerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59B15D2F-8882-4FF5-8400-43794226E05F}|UBC.Students.Tests\\UBC.Students.Tests.csproj|c:\\users\\leoaidar\\source\\repos\\ubc.students\\ubc.students.tests\\querytests\\studentquerytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59B15D2F-8882-4FF5-8400-43794226E05F}|UBC.Students.Tests\\UBC.Students.Tests.csproj|solutionrelative:ubc.students.tests\\querytests\\studentquerytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59B15D2F-8882-4FF5-8400-43794226E05F}|UBC.Students.Tests\\UBC.Students.Tests.csproj|c:\\users\\leoaidar\\source\\repos\\ubc.students\\ubc.students.tests\\handlertests\\studentcommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59B15D2F-8882-4FF5-8400-43794226E05F}|UBC.Students.Tests\\UBC.Students.Tests.csproj|solutionrelative:ubc.students.tests\\handlertests\\studentcommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59B15D2F-8882-4FF5-8400-43794226E05F}|UBC.Students.Tests\\UBC.Students.Tests.csproj|c:\\users\\leoaidar\\source\\repos\\ubc.students\\ubc.students.tests\\entitiestests\\studenttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59B15D2F-8882-4FF5-8400-43794226E05F}|UBC.Students.Tests\\UBC.Students.Tests.csproj|solutionrelative:ubc.students.tests\\entitiestests\\studenttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59B15D2F-8882-4FF5-8400-43794226E05F}|UBC.Students.Tests\\UBC.Students.Tests.csproj|c:\\users\\leoaidar\\source\\repos\\ubc.students\\ubc.students.tests\\commandtests\\deletestudentcommandtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59B15D2F-8882-4FF5-8400-43794226E05F}|UBC.Students.Tests\\UBC.Students.Tests.csproj|solutionrelative:ubc.students.tests\\commandtests\\deletestudentcommandtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59B15D2F-8882-4FF5-8400-43794226E05F}|UBC.Students.Tests\\UBC.Students.Tests.csproj|c:\\users\\leoaidar\\source\\repos\\ubc.students\\ubc.students.tests\\commandtests\\createstudentcommandtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59B15D2F-8882-4FF5-8400-43794226E05F}|UBC.Students.Tests\\UBC.Students.Tests.csproj|solutionrelative:ubc.students.tests\\commandtests\\createstudentcommandtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D5AE628-8647-472A-873A-BC64564D29FE}|UBC.Students.Domain\\UBC.Students.Domain.csproj|c:\\users\\leoaidar\\source\\repos\\ubc.students\\ubc.students.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D5AE628-8647-472A-873A-BC64564D29FE}|UBC.Students.Domain\\UBC.Students.Domain.csproj|solutionrelative:ubc.students.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D04CFBD-8C3B-454B-A0DC-A0CA16812B2F}|UBC.Students.Infra.Data\\UBC.Students.Infra.Data.csproj|c:\\users\\leoaidar\\source\\repos\\ubc.students\\ubc.students.infra.data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D04CFBD-8C3B-454B-A0DC-A0CA16812B2F}|UBC.Students.Infra.Data\\UBC.Students.Infra.Data.csproj|solutionrelative:ubc.students.infra.data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D5AE628-8647-472A-873A-BC64564D29FE}|UBC.Students.Domain\\UBC.Students.Domain.csproj|c:\\users\\leoaidar\\source\\repos\\ubc.students\\ubc.students.domain\\handlers\\userqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D5AE628-8647-472A-873A-BC64564D29FE}|UBC.Students.Domain\\UBC.Students.Domain.csproj|solutionrelative:ubc.students.domain\\handlers\\userqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D04CFBD-8C3B-454B-A0DC-A0CA16812B2F}|UBC.Students.Infra.Data\\UBC.Students.Infra.Data.csproj|c:\\users\\leoaidar\\source\\repos\\ubc.students\\ubc.students.infra.data\\contexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D04CFBD-8C3B-454B-A0DC-A0CA16812B2F}|UBC.Students.Infra.Data\\UBC.Students.Infra.Data.csproj|solutionrelative:ubc.students.infra.data\\contexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D5AE628-8647-472A-873A-BC64564D29FE}|UBC.Students.Domain\\UBC.Students.Domain.csproj|c:\\users\\leoaidar\\source\\repos\\ubc.students\\ubc.students.domain\\queries\\studentgetquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D5AE628-8647-472A-873A-BC64564D29FE}|UBC.Students.Domain\\UBC.Students.Domain.csproj|solutionrelative:ubc.students.domain\\queries\\studentgetquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D5AE628-8647-472A-873A-BC64564D29FE}|UBC.Students.Domain\\UBC.Students.Domain.csproj|c:\\users\\leoaidar\\source\\repos\\ubc.students\\ubc.students.domain\\handlers\\studentqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D5AE628-8647-472A-873A-BC64564D29FE}|UBC.Students.Domain\\UBC.Students.Domain.csproj|solutionrelative:ubc.students.domain\\handlers\\studentqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DF1CB58-7AD4-4E97-8F40-8A959527021C}|UBC.Students.Application\\UBC.Students.Application.csproj|c:\\users\\leoaidar\\source\\repos\\ubc.students\\ubc.students.application\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DF1CB58-7AD4-4E97-8F40-8A959527021C}|UBC.Students.Application\\UBC.Students.Application.csproj|solutionrelative:ubc.students.application\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{627A390C-F456-47D7-B8D0-2D2BCC0EB7A1}|UBC.Students.infra.IoC\\UBC.Students.infra.IoC.csproj|c:\\users\\leoaidar\\source\\repos\\ubc.students\\ubc.students.infra.ioc\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{627A390C-F456-47D7-B8D0-2D2BCC0EB7A1}|UBC.Students.infra.IoC\\UBC.Students.infra.IoC.csproj|solutionrelative:ubc.students.infra.ioc\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{675233B2-EB54-46F8-8CAC-38FCC903A4EE}|UBC.Students.API\\UBC.Students.API.csproj|c:\\users\\leoaidar\\source\\repos\\ubc.students\\ubc.students.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -105,30 +13,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{675233B2-EB54-46F8-8CAC-38FCC903A4EE}|UBC.Students.API\\UBC.Students.API.csproj|c:\\users\\leoaidar\\source\\repos\\ubc.students\\ubc.students.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{675233B2-EB54-46F8-8CAC-38FCC903A4EE}|UBC.Students.API\\UBC.Students.API.csproj|solutionrelative:ubc.students.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D5AE628-8647-472A-873A-BC64564D29FE}|UBC.Students.Domain\\UBC.Students.Domain.csproj|c:\\users\\leoaidar\\source\\repos\\ubc.students\\ubc.students.domain\\commands\\createstudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D5AE628-8647-472A-873A-BC64564D29FE}|UBC.Students.Domain\\UBC.Students.Domain.csproj|solutionrelative:ubc.students.domain\\commands\\createstudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{627A390C-F456-47D7-B8D0-2D2BCC0EB7A1}|UBC.Students.infra.IoC\\UBC.Students.infra.IoC.csproj|c:\\users\\leoaidar\\source\\repos\\ubc.students\\ubc.students.infra.ioc\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{627A390C-F456-47D7-B8D0-2D2BCC0EB7A1}|UBC.Students.infra.IoC\\UBC.Students.infra.IoC.csproj|solutionrelative:ubc.students.infra.ioc\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D5AE628-8647-472A-873A-BC64564D29FE}|UBC.Students.Domain\\UBC.Students.Domain.csproj|c:\\users\\leoaidar\\source\\repos\\ubc.students\\ubc.students.domain\\commands\\updatestudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D5AE628-8647-472A-873A-BC64564D29FE}|UBC.Students.Domain\\UBC.Students.Domain.csproj|solutionrelative:ubc.students.domain\\commands\\updatestudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D5AE628-8647-472A-873A-BC64564D29FE}|UBC.Students.Domain\\UBC.Students.Domain.csproj|c:\\users\\leoaidar\\source\\repos\\ubc.students\\ubc.students.domain\\commands\\deletestudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D5AE628-8647-472A-873A-BC64564D29FE}|UBC.Students.Domain\\UBC.Students.Domain.csproj|solutionrelative:ubc.students.domain\\commands\\deletestudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D5AE628-8647-472A-873A-BC64564D29FE}|UBC.Students.Domain\\UBC.Students.Domain.csproj|c:\\users\\leoaidar\\source\\repos\\ubc.students\\ubc.students.domain\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D5AE628-8647-472A-873A-BC64564D29FE}|UBC.Students.Domain\\UBC.Students.Domain.csproj|solutionrelative:ubc.students.domain\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DF1CB58-7AD4-4E97-8F40-8A959527021C}|UBC.Students.Application\\UBC.Students.Application.csproj|c:\\users\\leoaidar\\source\\repos\\ubc.students\\ubc.students.application\\viewmodels\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DF1CB58-7AD4-4E97-8F40-8A959527021C}|UBC.Students.Application\\UBC.Students.Application.csproj|solutionrelative:ubc.students.application\\viewmodels\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -138,64 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 9,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "StudentsController.cs",
-              "DocumentMoniker": "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.API\\Controllers\\StudentsController.cs",
-              "RelativeDocumentMoniker": "UBC.Students.API\\Controllers\\StudentsController.cs",
-              "ToolTip": "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.API\\Controllers\\StudentsController.cs",
-              "RelativeToolTip": "UBC.Students.API\\Controllers\\StudentsController.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAAuwEQAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T00:56:53.913Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "StudentCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.Domain\\Handlers\\StudentCommandHandler.cs",
-              "RelativeDocumentMoniker": "UBC.Students.Domain\\Handlers\\StudentCommandHandler.cs",
-              "ToolTip": "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.Domain\\Handlers\\StudentCommandHandler.cs",
-              "RelativeToolTip": "UBC.Students.Domain\\Handlers\\StudentCommandHandler.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAuwCMAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T00:52:29.109Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "students-seed.csv",
-              "DocumentMoniker": "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.API\\Seed\\students-seed.csv",
-              "RelativeDocumentMoniker": "UBC.Students.API\\Seed\\students-seed.csv",
-              "ToolTip": "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.API\\Seed\\students-seed.csv",
-              "RelativeToolTip": "UBC.Students.API\\Seed\\students-seed.csv",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
-              "WhenOpened": "2024-07-05T01:24:30.224Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "StudentService.cs",
-              "DocumentMoniker": "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.Application\\Services\\StudentService.cs",
-              "RelativeDocumentMoniker": "UBC.Students.Application\\Services\\StudentService.cs",
-              "ToolTip": "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.Application\\Services\\StudentService.cs",
-              "RelativeToolTip": "UBC.Students.Application\\Services\\StudentService.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAuwCkAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T01:04:09.683Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -234,345 +62,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.API\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "UBC.Students.API\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.API\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "UBC.Students.API\\Controllers\\AuthController.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAABoAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T02:30:50.187Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CreateStudentViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.Application\\ViewModels\\CreateStudentViewModel.cs",
-              "RelativeDocumentMoniker": "UBC.Students.Application\\ViewModels\\CreateStudentViewModel.cs",
-              "ToolTip": "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.Application\\ViewModels\\CreateStudentViewModel.cs",
-              "RelativeToolTip": "UBC.Students.Application\\ViewModels\\CreateStudentViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T00:58:42.394Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.Domain\\Entities\\Student.cs",
-              "RelativeDocumentMoniker": "UBC.Students.Domain\\Entities\\Student.cs",
-              "ToolTip": "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.Domain\\Entities\\Student.cs",
-              "RelativeToolTip": "UBC.Students.Domain\\Entities\\Student.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAuwCMAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T03:05:48.513Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StudentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.Infra.Data\\Repositories\\StudentRepository.cs",
-              "RelativeDocumentMoniker": "UBC.Students.Infra.Data\\Repositories\\StudentRepository.cs",
-              "ToolTip": "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.Infra.Data\\Repositories\\StudentRepository.cs",
-              "RelativeToolTip": "UBC.Students.Infra.Data\\Repositories\\StudentRepository.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAuwBwAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T02:11:55.983Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "EntityFakeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.Tests\\Repositories\\EntityFakeRepository.cs",
-              "RelativeDocumentMoniker": "UBC.Students.Tests\\Repositories\\EntityFakeRepository.cs",
-              "ToolTip": "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.Tests\\Repositories\\EntityFakeRepository.cs",
-              "RelativeToolTip": "UBC.Students.Tests\\Repositories\\EntityFakeRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T04:19:39.785Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "DeleteStudentCommandTests.cs",
-              "DocumentMoniker": "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.Tests\\CommandTests\\DeleteStudentCommandTests.cs",
-              "RelativeDocumentMoniker": "UBC.Students.Tests\\CommandTests\\DeleteStudentCommandTests.cs",
-              "ToolTip": "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.Tests\\CommandTests\\DeleteStudentCommandTests.cs",
-              "RelativeToolTip": "UBC.Students.Tests\\CommandTests\\DeleteStudentCommandTests.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T04:43:06.748Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AutoMapping.cs",
-              "DocumentMoniker": "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.Application\\Mappers\\AutoMapping.cs",
-              "RelativeDocumentMoniker": "UBC.Students.Application\\Mappers\\AutoMapping.cs",
-              "ToolTip": "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.Application\\Mappers\\AutoMapping.cs",
-              "RelativeToolTip": "UBC.Students.Application\\Mappers\\AutoMapping.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T01:15:29.791Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "StudentQueryTests.cs",
-              "DocumentMoniker": "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.Tests\\QueryTests\\StudentQueryTests.cs",
-              "RelativeDocumentMoniker": "UBC.Students.Tests\\QueryTests\\StudentQueryTests.cs",
-              "ToolTip": "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.Tests\\QueryTests\\StudentQueryTests.cs",
-              "RelativeToolTip": "UBC.Students.Tests\\QueryTests\\StudentQueryTests.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T04:33:24.786Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.API\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "UBC.Students.API\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.API\\Properties\\launchSettings.json",
-              "RelativeToolTip": "UBC.Students.API\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-05T13:23:26.47Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "StudentTests.cs",
-              "DocumentMoniker": "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.Tests\\EntitiesTests\\StudentTests.cs",
-              "RelativeDocumentMoniker": "UBC.Students.Tests\\EntitiesTests\\StudentTests.cs",
-              "ToolTip": "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.Tests\\EntitiesTests\\StudentTests.cs",
-              "RelativeToolTip": "UBC.Students.Tests\\EntitiesTests\\StudentTests.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T03:59:51.826Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.API\\Program.cs",
-              "RelativeDocumentMoniker": "UBC.Students.API\\Program.cs",
-              "ToolTip": "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.API\\Program.cs",
-              "RelativeToolTip": "UBC.Students.API\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAByAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T03:40:00.445Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "StudentCommandHandlerTests.cs",
-              "DocumentMoniker": "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.Tests\\HandlerTests\\StudentCommandHandlerTests.cs",
-              "RelativeDocumentMoniker": "UBC.Students.Tests\\HandlerTests\\StudentCommandHandlerTests.cs",
-              "ToolTip": "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.Tests\\HandlerTests\\StudentCommandHandlerTests.cs",
-              "RelativeToolTip": "UBC.Students.Tests\\HandlerTests\\StudentCommandHandlerTests.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAACUAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T04:58:44.18Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "CreateStudentCommandTests.cs",
-              "DocumentMoniker": "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.Tests\\CommandTests\\CreateStudentCommandTests.cs",
-              "RelativeDocumentMoniker": "UBC.Students.Tests\\CommandTests\\CreateStudentCommandTests.cs",
-              "ToolTip": "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.Tests\\CommandTests\\CreateStudentCommandTests.cs",
-              "RelativeToolTip": "UBC.Students.Tests\\CommandTests\\CreateStudentCommandTests.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T04:49:30.271Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.Domain\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "UBC.Students.Domain\\Entities\\User.cs",
-              "ToolTip": "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.Domain\\Entities\\User.cs",
-              "RelativeToolTip": "UBC.Students.Domain\\Entities\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T03:59:26.87Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "UserQueryHandler.cs",
-              "DocumentMoniker": "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.Domain\\Handlers\\UserQueryHandler.cs",
-              "RelativeDocumentMoniker": "UBC.Students.Domain\\Handlers\\UserQueryHandler.cs",
-              "ToolTip": "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.Domain\\Handlers\\UserQueryHandler.cs",
-              "RelativeToolTip": "UBC.Students.Domain\\Handlers\\UserQueryHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T03:48:54.719Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.Infra.Data\\Contexts\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "UBC.Students.Infra.Data\\Contexts\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.Infra.Data\\Contexts\\ApplicationDbContext.cs",
-              "RelativeToolTip": "UBC.Students.Infra.Data\\Contexts\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T03:47:46.112Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "StudentQueryHandler.cs",
-              "DocumentMoniker": "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.Domain\\Handlers\\StudentQueryHandler.cs",
-              "RelativeDocumentMoniker": "UBC.Students.Domain\\Handlers\\StudentQueryHandler.cs",
-              "ToolTip": "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.Domain\\Handlers\\StudentQueryHandler.cs",
-              "RelativeToolTip": "UBC.Students.Domain\\Handlers\\StudentQueryHandler.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAACUAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T02:06:38.837Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "IStudentService.cs",
-              "DocumentMoniker": "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.Application\\Interfaces\\IStudentService.cs",
-              "RelativeDocumentMoniker": "UBC.Students.Application\\Interfaces\\IStudentService.cs",
-              "ToolTip": "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.Application\\Interfaces\\IStudentService.cs",
-              "RelativeToolTip": "UBC.Students.Application\\Interfaces\\IStudentService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T01:04:16Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.Infra.Data\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "UBC.Students.Infra.Data\\Repositories\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.Infra.Data\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "UBC.Students.Infra.Data\\Repositories\\UserRepository.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAADQAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T02:07:21.394Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.API\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "UBC.Students.API\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.API\\appsettings.Development.json",
-              "RelativeToolTip": "UBC.Students.API\\appsettings.Development.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-05T03:42:08.399Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "StudentGetQuery.cs",
-              "DocumentMoniker": "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.Domain\\Queries\\StudentGetQuery.cs",
-              "RelativeDocumentMoniker": "UBC.Students.Domain\\Queries\\StudentGetQuery.cs",
-              "ToolTip": "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.Domain\\Queries\\StudentGetQuery.cs",
-              "RelativeToolTip": "UBC.Students.Domain\\Queries\\StudentGetQuery.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T02:03:35.722Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.API\\appsettings.json",
-              "RelativeDocumentMoniker": "UBC.Students.API\\appsettings.json",
-              "ToolTip": "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.API\\appsettings.json",
-              "RelativeToolTip": "UBC.Students.API\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-05T03:41:57.959Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 0,
               "Title": "DependencyContainer.cs",
               "DocumentMoniker": "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.infra.IoC\\DependencyContainer.cs",
               "RelativeDocumentMoniker": "UBC.Students.infra.IoC\\DependencyContainer.cs",
               "ToolTip": "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.infra.IoC\\DependencyContainer.cs",
               "RelativeToolTip": "UBC.Students.infra.IoC\\DependencyContainer.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAawCkAAABuAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T02:21:33.298Z"
+              "WhenOpened": "2024-07-08T04:54:29.704Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "CreateStudentCommand.cs",
-              "DocumentMoniker": "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.Domain\\Commands\\CreateStudentCommand.cs",
-              "RelativeDocumentMoniker": "UBC.Students.Domain\\Commands\\CreateStudentCommand.cs",
-              "ToolTip": "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.Domain\\Commands\\CreateStudentCommand.cs",
-              "RelativeToolTip": "UBC.Students.Domain\\Commands\\CreateStudentCommand.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAD4vyEAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T01:05:12.886Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "UpdateStudentCommand.cs",
-              "DocumentMoniker": "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.Domain\\Commands\\UpdateStudentCommand.cs",
-              "RelativeDocumentMoniker": "UBC.Students.Domain\\Commands\\UpdateStudentCommand.cs",
-              "ToolTip": "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.Domain\\Commands\\UpdateStudentCommand.cs",
-              "RelativeToolTip": "UBC.Students.Domain\\Commands\\UpdateStudentCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T03:01:37.248Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "DeleteStudentCommand.cs",
-              "DocumentMoniker": "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.Domain\\Commands\\DeleteStudentCommand.cs",
-              "RelativeDocumentMoniker": "UBC.Students.Domain\\Commands\\DeleteStudentCommand.cs",
-              "ToolTip": "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.Domain\\Commands\\DeleteStudentCommand.cs",
-              "RelativeToolTip": "UBC.Students.Domain\\Commands\\DeleteStudentCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T02:35:44.284Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.Domain\\Repositories\\IRepository.cs",
-              "RelativeDocumentMoniker": "UBC.Students.Domain\\Repositories\\IRepository.cs",
-              "ToolTip": "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.Domain\\Repositories\\IRepository.cs",
-              "RelativeToolTip": "UBC.Students.Domain\\Repositories\\IRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T02:07:27.18Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "UserViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.Application\\ViewModels\\UserViewModel.cs",
-              "RelativeDocumentMoniker": "UBC.Students.Application\\ViewModels\\UserViewModel.cs",
-              "ToolTip": "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.Application\\ViewModels\\UserViewModel.cs",
-              "RelativeToolTip": "UBC.Students.Application\\ViewModels\\UserViewModel.cs",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "UBC.Students.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.API\\appsettings.Development.json",
+              "RelativeToolTip": "UBC.Students.API\\appsettings.Development.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T00:58:47.39Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-08T04:53:45.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.API\\appsettings.json",
+              "RelativeDocumentMoniker": "UBC.Students.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.API\\appsettings.json",
+              "RelativeToolTip": "UBC.Students.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-08T04:53:43.46Z",
+              "EditorCaption": ""
             }
           ]
         }

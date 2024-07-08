@@ -2,12 +2,8 @@ using AutoMapper;
 using MediatR;
 using UBC.Students.Domain.Commands;
 using UBC.Students.Domain.Commands.Contracts;
-using UBC.Students.Domain.Domain.Entities;
 using UBC.Students.Domain.Entities;
-using UBC.Students.Domain.Queries.Contracts;
-using UBC.Students.Domain.Queries;
 using UBC.Students.Domain.Repositories;
-using System.Runtime.Intrinsics.X86;
 
 namespace UBC.Students.Domain.Handlers
 {

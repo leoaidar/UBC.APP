@@ -1,5 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
-using UBC.Students.Domain.Domain.Entities;
+using UBC.Students.Domain.Entities;
 
 namespace UBC.Students.Domain.Entities
 {

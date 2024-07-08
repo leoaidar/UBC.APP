@@ -1,5 +1,5 @@
 ﻿using Flunt.Notifications;
-using UBC.Students.Domain.Domain.Entities;
+using UBC.Students.Domain.Entities;
 using UBC.Students.Domain.Repositories;
 
 namespace UBC.Students.Domain.Handlers

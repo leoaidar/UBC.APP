@@ -1,6 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
-using UBC.Students.Domain.Domain.Entities;
 using UBC.Students.Domain.Entities;
 
 public class StudentMap : IEntityTypeConfiguration<Student>

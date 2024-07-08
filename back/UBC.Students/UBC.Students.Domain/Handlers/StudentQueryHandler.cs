@@ -1,5 +1,4 @@
 using MediatR;
-using UBC.Students.Domain.Domain.Entities;
 using UBC.Students.Domain.Entities;
 using UBC.Students.Domain.Queries;
 using UBC.Students.Domain.Queries.Contracts;

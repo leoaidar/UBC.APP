@@ -1,5 +1,4 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using UBC.Students.Domain.Domain.Entities;
 using UBC.Students.Domain.Entities;
 using UBC.Students.Domain.Repositories;
 using UBC.Students.Infra.Data.Contexts;
