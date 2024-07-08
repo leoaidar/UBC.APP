@@ -1,40 +1,65 @@
 # UBC.APP
 Estudantes APP
 
+
 BACK-END C# .NET 6
+
 
 Abrir no terminal PowerShell ou Bash and digitar: 
 
+
 cd "back/UBC.Students" 
+
 dotnet restore "./UBC.Students.API/UBC.Students.API.csproj"
+
 dotnet build "./UBC.Students.API/UBC.Students.API.csproj"
+
 cd "./UBC.Students.API"
+
 dotnet run
+
 
 listening on: https://localhost:7219
 
+
 Documentação SWAGGER: https://localhost:7219/swagger/index.html 
 
+
 FRONT-END REACT APP
+
 Abrir no terminal PowerShell out Bash e digitar: 
+
 cd "front/students-app" 
+
 npm install 
+
 npm start 
+
 
 listening on: http://localhost:3000/
 
+
 Usuario já fixado no login:
+
 usuario: David
+
 senha: 2013-07-18
+
 
 
 BACK-END TEST
 
+
 cd "back\UBC.Students" 
+
 dotnet restore "./UBC.Students.API/UBC.Students.API.csproj"
+
 dotnet build "./UBC.Students.API/UBC.Students.API.csproj"
+
 cd "./UBC.Students.Tests"
+
 dotnet test
+
 
 
 
