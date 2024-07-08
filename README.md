@@ -143,3 +143,4 @@ EntitiesTests: Testes para as entidades de domínio.
 HandlerTests: Testes para os handlers que processam os comandos e consultas.
 QueryTests: Testes para as queries de leitura.
 
+
