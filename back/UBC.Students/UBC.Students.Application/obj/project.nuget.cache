@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PcLQ98qmh20=",
+  "dgSpecHash": "28Lp9re0H0c=",
   "success": true,
-  "projectFilePath": "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.Application\\UBC.Students.Application.csproj",
+  "projectFilePath": "C:\\Users\\leoaidar\\source\\repos\\UBC.APP\\back\\UBC.Students\\UBC.Students.Application\\UBC.Students.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leoaidar\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\leoaidar\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",

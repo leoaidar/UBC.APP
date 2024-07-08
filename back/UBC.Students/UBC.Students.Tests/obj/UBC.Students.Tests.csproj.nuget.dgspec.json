@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.Tests\\UBC.Students.Tests.csproj": {}
+    "C:\\Users\\leoaidar\\source\\repos\\UBC.APP\\back\\UBC.Students\\UBC.Students.Tests\\UBC.Students.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.Domain\\UBC.Students.Domain.csproj": {
+    "C:\\Users\\leoaidar\\source\\repos\\UBC.APP\\back\\UBC.Students\\UBC.Students.Domain\\UBC.Students.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.Domain\\UBC.Students.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\leoaidar\\source\\repos\\UBC.APP\\back\\UBC.Students\\UBC.Students.Domain\\UBC.Students.Domain.csproj",
         "projectName": "UBC.Students.Domain",
-        "projectPath": "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.Domain\\UBC.Students.Domain.csproj",
+        "projectPath": "C:\\Users\\leoaidar\\source\\repos\\UBC.APP\\back\\UBC.Students\\UBC.Students.Domain\\UBC.Students.Domain.csproj",
         "packagesPath": "C:\\Users\\leoaidar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.Domain\\obj\\",
+        "outputPath": "C:\\Users\\leoaidar\\source\\repos\\UBC.APP\\back\\UBC.Students\\UBC.Students.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -92,14 +92,14 @@
         }
       }
     },
-    "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.Tests\\UBC.Students.Tests.csproj": {
+    "C:\\Users\\leoaidar\\source\\repos\\UBC.APP\\back\\UBC.Students\\UBC.Students.Tests\\UBC.Students.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.Tests\\UBC.Students.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\leoaidar\\source\\repos\\UBC.APP\\back\\UBC.Students\\UBC.Students.Tests\\UBC.Students.Tests.csproj",
         "projectName": "UBC.Students.Tests",
-        "projectPath": "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.Tests\\UBC.Students.Tests.csproj",
+        "projectPath": "C:\\Users\\leoaidar\\source\\repos\\UBC.APP\\back\\UBC.Students\\UBC.Students.Tests\\UBC.Students.Tests.csproj",
         "packagesPath": "C:\\Users\\leoaidar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.Tests\\obj\\",
+        "outputPath": "C:\\Users\\leoaidar\\source\\repos\\UBC.APP\\back\\UBC.Students\\UBC.Students.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -122,8 +122,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.Domain\\UBC.Students.Domain.csproj": {
-                "projectPath": "C:\\Users\\leoaidar\\source\\repos\\UBC.Students\\UBC.Students.Domain\\UBC.Students.Domain.csproj"
+              "C:\\Users\\leoaidar\\source\\repos\\UBC.APP\\back\\UBC.Students\\UBC.Students.Domain\\UBC.Students.Domain.csproj": {
+                "projectPath": "C:\\Users\\leoaidar\\source\\repos\\UBC.APP\\back\\UBC.Students\\UBC.Students.Domain\\UBC.Students.Domain.csproj"
               }
             }
           }
