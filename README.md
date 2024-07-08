@@ -63,6 +63,9 @@ dotnet test
 
 
 
+
+
+
 FRONT-END REACT ESTRUTURA PROJETO:
 
 Utilizados:
@@ -73,6 +76,8 @@ ContextAPI
 Toastify
 Axios
 etc...
+
+
 
 
 src:
@@ -154,6 +159,12 @@ Students.ts: Tipos relacionados a dados de estudantes.
 Funções úteis e utilitários para uso em toda a aplicação.
 
 axiosClient.ts: Configuração do cliente Axios para chamadas HTTP.
+
+
+
+
+
+
 
 
 
