@@ -1,0 +1,15 @@
+C:\Users\leoaidar\source\repos\UBC.Students\UBC.Students.Infra.Data\bin\Debug\net6.0\UBC.Students.Infra.Data.deps.json
+C:\Users\leoaidar\source\repos\UBC.Students\UBC.Students.Infra.Data\bin\Debug\net6.0\UBC.Students.Infra.Data.dll
+C:\Users\leoaidar\source\repos\UBC.Students\UBC.Students.Infra.Data\bin\Debug\net6.0\UBC.Students.Infra.Data.pdb
+C:\Users\leoaidar\source\repos\UBC.Students\UBC.Students.Infra.Data\bin\Debug\net6.0\UBC.Students.Domain.dll
+C:\Users\leoaidar\source\repos\UBC.Students\UBC.Students.Infra.Data\bin\Debug\net6.0\UBC.Students.Domain.pdb
+C:\Users\leoaidar\source\repos\UBC.Students\UBC.Students.Infra.Data\obj\Debug\net6.0\UBC.Students.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\leoaidar\source\repos\UBC.Students\UBC.Students.Infra.Data\obj\Debug\net6.0\UBC.Students.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leoaidar\source\repos\UBC.Students\UBC.Students.Infra.Data\obj\Debug\net6.0\UBC.Students.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\leoaidar\source\repos\UBC.Students\UBC.Students.Infra.Data\obj\Debug\net6.0\UBC.Students.Infra.Data.AssemblyInfo.cs
+C:\Users\leoaidar\source\repos\UBC.Students\UBC.Students.Infra.Data\obj\Debug\net6.0\UBC.Students.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\leoaidar\source\repos\UBC.Students\UBC.Students.Infra.Data\obj\Debug\net6.0\UBC.Stud.BF35AF46.Up2Date
+C:\Users\leoaidar\source\repos\UBC.Students\UBC.Students.Infra.Data\obj\Debug\net6.0\UBC.Students.Infra.Data.dll
+C:\Users\leoaidar\source\repos\UBC.Students\UBC.Students.Infra.Data\obj\Debug\net6.0\refint\UBC.Students.Infra.Data.dll
+C:\Users\leoaidar\source\repos\UBC.Students\UBC.Students.Infra.Data\obj\Debug\net6.0\UBC.Students.Infra.Data.pdb
+C:\Users\leoaidar\source\repos\UBC.Students\UBC.Students.Infra.Data\obj\Debug\net6.0\ref\UBC.Students.Infra.Data.dll

@@ -1,0 +1,12 @@
+C:\Users\leoaidar\source\repos\UBC.Students\UBC.Students.Domain\bin\Debug\net6.0\UBC.Students.Domain.deps.json
+C:\Users\leoaidar\source\repos\UBC.Students\UBC.Students.Domain\bin\Debug\net6.0\UBC.Students.Domain.dll
+C:\Users\leoaidar\source\repos\UBC.Students\UBC.Students.Domain\bin\Debug\net6.0\UBC.Students.Domain.pdb
+C:\Users\leoaidar\source\repos\UBC.Students\UBC.Students.Domain\obj\Debug\net6.0\UBC.Students.Domain.csproj.AssemblyReference.cache
+C:\Users\leoaidar\source\repos\UBC.Students\UBC.Students.Domain\obj\Debug\net6.0\UBC.Students.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leoaidar\source\repos\UBC.Students\UBC.Students.Domain\obj\Debug\net6.0\UBC.Students.Domain.AssemblyInfoInputs.cache
+C:\Users\leoaidar\source\repos\UBC.Students\UBC.Students.Domain\obj\Debug\net6.0\UBC.Students.Domain.AssemblyInfo.cs
+C:\Users\leoaidar\source\repos\UBC.Students\UBC.Students.Domain\obj\Debug\net6.0\UBC.Students.Domain.csproj.CoreCompileInputs.cache
+C:\Users\leoaidar\source\repos\UBC.Students\UBC.Students.Domain\obj\Debug\net6.0\UBC.Students.Domain.dll
+C:\Users\leoaidar\source\repos\UBC.Students\UBC.Students.Domain\obj\Debug\net6.0\refint\UBC.Students.Domain.dll
+C:\Users\leoaidar\source\repos\UBC.Students\UBC.Students.Domain\obj\Debug\net6.0\UBC.Students.Domain.pdb
+C:\Users\leoaidar\source\repos\UBC.Students\UBC.Students.Domain\obj\Debug\net6.0\ref\UBC.Students.Domain.dll
